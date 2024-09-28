@@ -1,0 +1,1 @@
+The Spotify Clone project replicates the essential features of the Spotify web player interface using front-end technologies like HTML, CSS, and JavaScript. The goal of the project is to build a music streaming web app interface where users can interact with a music player, browse songs, and control playback features.
